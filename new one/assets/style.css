@@ -1,0 +1,46 @@
+.main-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.form-label {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.form-input {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 0.3rem;
+}
+
+
+.form-dropdown .Select {
+    border-color: #ced4da;
+}
+
+.submit-button {
+    background-color: #007bff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    height: 60%;
+    box-sizing: border-box;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    color: white;
+}
+

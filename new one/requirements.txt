@@ -1,0 +1,9 @@
+praw
+pandas
+numpy
+requests
+beautifulsoup4
+textblob
+dash
+dash-bootstrap-components
+plotly
